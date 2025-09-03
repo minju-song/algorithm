@@ -4,23 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75804b92-2f8c-4e82-a7af-1ac181c31f20" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/chapter3/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithm/chapter3/practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bronze/q1085.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bronze/q2441.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bronze/q2442.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bronze/q2443.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bronze/q2501.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bronze/q2750.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bronze/q5086.java" afterDir="false" />
+    <list default="true" id="75804b92-2f8c-4e82-a7af-1ac181c31f20" name="Changes" comment="test">
+      <change afterPath="$PROJECT_DIR$/src/bronze/q1247.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bronze/q1085.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bronze/q1085.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,22 +33,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.practice.executor&quot;: &quot;Run&quot;,
-    &quot;Application.q2441.executor&quot;: &quot;Run&quot;,
-    &quot;Application.q2442.executor&quot;: &quot;Run&quot;,
-    &quot;Application.q2443.executor&quot;: &quot;Run&quot;,
-    &quot;Application.q2501.executor&quot;: &quot;Run&quot;,
-    &quot;Application.q2750.executor&quot;: &quot;Run&quot;,
-    &quot;Application.q5086.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.practice.executor": "Run",
+    "Application.q1085.executor": "Run",
+    "Application.q2441.executor": "Run",
+    "Application.q2442.executor": "Run",
+    "Application.q2443.executor": "Run",
+    "Application.q2501.executor": "Run",
+    "Application.q2750.executor": "Run",
+    "Application.q5086.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.Main">
+}]]></component>
+  <component name="RunManager" selected="Application.q1085">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="algorithm" />
@@ -82,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="q2441" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bronze.q2441" />
+    <configuration name="q1085" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bronze.q1085" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="q2442" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bronze.q2442" />
+    <configuration name="q2441" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bronze.q2441" />
       <module name="algorithm" />
       <extension name="coverage">
         <pattern>
@@ -123,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.q1085" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.practice" />
         <item itemvalue="Application.q2443" />
         <item itemvalue="Application.q2441" />
-        <item itemvalue="Application.q2442" />
       </list>
     </recent_temporary>
   </component>
@@ -140,6 +128,34 @@
       <option name="presentableId" value="Default" />
       <updated>1736593598828</updated>
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <option name="closed" value="true" />
+      <created>1756910246128</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1756910246128</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/bronze/q1085.java</url>
+          <line>6</line>
+          <properties class="bronze.q1085" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
